@@ -1,4 +1,0 @@
-Como criar um SISTEMA DE CADASTRO com LOGIN, FORMULÁRIO e SESSÕES #02
-completo
-
-sistema com login, cadastro, sessões e botão de sair funcional
